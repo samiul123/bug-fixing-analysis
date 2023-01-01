@@ -140,6 +140,11 @@ In addition, *analysis/repository_analysis.csv* contains the following self-expl
   * Both the projects use custom labels mostly.
 
 
+#### Things to Note
+* Github API calling are commented in the code for convenience.
+* To create the environment -> conda create --name <env> --file requirements.txt
+
+
 
 
 
